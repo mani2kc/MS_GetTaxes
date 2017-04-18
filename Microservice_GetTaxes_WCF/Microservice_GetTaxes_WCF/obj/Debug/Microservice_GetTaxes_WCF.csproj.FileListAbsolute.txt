@@ -1,0 +1,10 @@
+c:\users\chandra\documents\visual studio 2017\Projects\Microservice_GetTaxes_WCF\Microservice_GetTaxes_WCF\bin\Microservice_GetTaxes_WCF.dll.config
+c:\users\chandra\documents\visual studio 2017\Projects\Microservice_GetTaxes_WCF\Microservice_GetTaxes_WCF\bin\Microservice_GetTaxes_WCF.dll
+c:\users\chandra\documents\visual studio 2017\Projects\Microservice_GetTaxes_WCF\Microservice_GetTaxes_WCF\bin\Microservice_GetTaxes_WCF.pdb
+c:\users\chandra\documents\visual studio 2017\Projects\Microservice_GetTaxes_WCF\Microservice_GetTaxes_WCF\obj\Debug\Microservice_GetTaxes_WCF.dll
+c:\users\chandra\documents\visual studio 2017\Projects\Microservice_GetTaxes_WCF\Microservice_GetTaxes_WCF\obj\Debug\Microservice_GetTaxes_WCF.pdb
+C:\Mani-Projects\DOTNET\Microservice_GetTaxes_WCF\Microservice_GetTaxes_WCF\bin\Microservice_GetTaxes_WCF.dll.config
+C:\Mani-Projects\DOTNET\Microservice_GetTaxes_WCF\Microservice_GetTaxes_WCF\bin\Microservice_GetTaxes_WCF.dll
+C:\Mani-Projects\DOTNET\Microservice_GetTaxes_WCF\Microservice_GetTaxes_WCF\bin\Microservice_GetTaxes_WCF.pdb
+C:\Mani-Projects\DOTNET\Microservice_GetTaxes_WCF\Microservice_GetTaxes_WCF\obj\Debug\Microservice_GetTaxes_WCF.dll
+C:\Mani-Projects\DOTNET\Microservice_GetTaxes_WCF\Microservice_GetTaxes_WCF\obj\Debug\Microservice_GetTaxes_WCF.pdb

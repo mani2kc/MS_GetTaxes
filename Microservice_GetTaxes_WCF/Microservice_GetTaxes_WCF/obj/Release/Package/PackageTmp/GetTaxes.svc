@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Microservice_GetTaxes_WCF.GetTaxes" CodeBehind="GetTaxes.svc.cs" %>
